@@ -1,0 +1,21 @@
+{
+	"meals": [{
+			"id": "m1",
+			"name": "Loaded Veggie",
+			"description": "Sweet potatoes, brown rice, pinto beans, green chili queso, chipotle mayo, corn pepper blend",
+			"price": 22.99
+		},
+		{
+			"id": "m2",
+			"name": "Hummus Falafel",
+			"description": "Falafel, cucumber salsa, spicy chimichurri, go-go sauce, roasted red pepper hummus, red onions, feta, pita chips",
+			"price": 16.5
+		},
+		{
+			"id": "m3",
+			"name": "Feta Falafel",
+			"description": "Falafel, green goddess dressing, lemon garlic vinaigrette, cucumber salsa, pickled red onion, tangy herb aioli, feta",
+			"price": 12.99
+		}
+	]
+}
